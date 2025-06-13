@@ -2,3 +2,6 @@ pylint
 pytest
 requests
 pandas
+ipykernel
+python-dotenv
+psycopg2-binary
